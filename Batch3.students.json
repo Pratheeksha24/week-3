@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "653b660a2023e08ec6ccd3a7"
+  },
+  "Name": "Pratheeksha",
+  "Usn": "4sf21cs111",
+  "Gender": "Female",
+  "Email": "pratheeksha.cs21@sahyadri.edu.in",
+  "Mobile": {
+    "$numberLong": "9611597761"
+  },
+  "Password": "prathi24",
+  "__v": 0
+}]
